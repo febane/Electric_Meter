@@ -1,2 +1,2 @@
-# Electric_Meter
+# Electricity
 Administers the electricity consumption in a city
