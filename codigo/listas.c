@@ -1,5 +1,5 @@
 /**
- * @package     Electricity_Meter
+ * @package     Electricity
  * 
  * More info in documentation
  *
