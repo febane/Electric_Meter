@@ -1,3 +1,13 @@
+/**
+ * @package     Electricity_Meter
+ * 
+ * More info in documentation
+ *
+ * @author      Fernando Barbosa Neto   
+ * @author      Jeferson de Oliveira Batista   
+ * 
+ */
+
 #include "listas.h"
 
 extern FILE* saida;
